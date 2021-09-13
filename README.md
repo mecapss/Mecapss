@@ -2,6 +2,4 @@
 
 ---
 
-<p align="center"
-  ![alt text](/oiê hey(1).png)
-</p>
+![alt text](/oiê hey(1).png)
