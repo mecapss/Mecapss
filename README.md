@@ -2,4 +2,4 @@
 
 ---
 
-![Welcome](/oiê hey(1).png)
+![Welcome](/github_about_me.png)
