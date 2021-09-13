@@ -3,5 +3,5 @@
 ---
 
 <p align="center">
-  <img src="oiê hey (1).png" width="100%" title="Introduction about me" alt="Introduction about me">
+  <img src="oiê hey(1).png" width="100%" title="Introduction about me" alt="">
 </p>
