@@ -2,6 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src="oiê hey(1).png" width="100%" title="Introduction about me" alt="">
+<p align="center"
+  ![alt text](/oiê hey(1).png)
 </p>
