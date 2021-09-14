@@ -6,6 +6,8 @@
   <img src="github_about_me.png" width="100%" title="about me">
 </p>
 
+I am a full-stack web developer who is still in development, looking to learn and turn coffee into code😉
+
 
 ### How to reach me: (Como entrar em contato comigo) <strong>(Click the badge to view my profiles !)</strong>
 
