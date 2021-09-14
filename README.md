@@ -22,7 +22,7 @@ I am a full-stack web developer who is still in development, looking to learn an
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-![Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?mecapss=anuraghazra&show_icons=true&theme=material-palenight)
+![Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?Eduarda Santos=anuraghazra&show_icons=true&theme=material-palenight)
 
 ### Most used languages (Linguagens mais usadas)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
