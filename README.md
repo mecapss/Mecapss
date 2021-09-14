@@ -8,4 +8,4 @@
 
 ![Eduarda GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-![image]({https://img.shields.io/badge/_miskd/-E4405F?style=for-the-badge&logo=instagram&logoColor=white})
+<img src="https://img.shields.io/badge/eduarda.mecapss@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="eduarda.mecapss@gmail.com"> 
